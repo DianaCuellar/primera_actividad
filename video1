@@ -1,0 +1,9 @@
+</section>
+<section id="reproductor">  
+	<video id="medio" width="720" height="400" preload controls
+	            loop poster="http://minkbooks.com/content/poster.jpg">
+	        <source src="http://minkbooks.com/content/trailer.mp4">
+	        <source src="http://minkbooks.com/content/trailer.ogg">
+    </video> 
+</section>
+<section>
