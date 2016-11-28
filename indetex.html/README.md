@@ -1,2 +1,0 @@
-# indetex.html
-pagina web
